@@ -1,0 +1,7 @@
+/* Ancien fichier spécifique.
+   Le design global est maintenant géré dans style.css.
+   On garde simplement un fallback pour ne rien casser si ce fichier est encore lié. */
+
+body {
+  background-color: #031326;
+}
